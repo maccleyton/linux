@@ -1,0 +1,3 @@
+sudo chmod 764 *
+
+habilita a permissão de execução a todos os arquivos da pasta
